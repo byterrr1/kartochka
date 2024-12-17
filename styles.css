@@ -1,0 +1,199 @@
+.phon{
+position: relative;
+width: 1897px;
+height: 1024px;
+
+background: #DBD9D9;
+
+}
+.verh{
+position: absolute;
+width: 1822px;
+height: 63px;
+right: 41px;
+top: 15px;
+
+background: #E8E8E8;
+border-radius: 25px;
+}
+.oval{
+position: absolute;
+width: 173px;
+height: 31px;
+left: 159px;
+top: 31px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+}
+.oval2{
+position: absolute;
+width: 173px;
+height: 31px;
+left: 539px;
+top: 31px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+}
+.oval3{
+position: absolute;
+width: 173px;
+height: 31px;
+left: 934px;
+top: 31px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+}
+.oval4{
+position: absolute;
+width: 173px;
+height: 31px;
+left: 1351px;
+top: 31px;
+
+background: #D9D9D9;
+border-radius: 15px;
+
+}
+.palka1{
+position: absolute;
+width: 48px;
+height: 0px;
+left: 1775px;
+top: 36px;
+
+border: 1px solid #000000;
+
+}
+.palka2{
+position: absolute;
+width: 48px;
+height: 0px;
+left: 1775px;
+top: 46px;
+
+border: 1px solid #000000;
+
+}
+.palka3{
+position: absolute;
+width: 48px;
+height: 0px;
+left: 1775px;
+top: 56px;
+
+border: 1px solid #000000;
+
+}
+.photo{
+position: absolute;
+width: 250px;
+height: 250px;
+left: 50px;
+top: 196px;
+
+background: url(xd.jpg);
+border-radius: 25px;
+
+}
+.nazvanie{
+position: absolute;
+width: 495px;
+height: 48px;
+left: 394px;
+top: 181px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 36px;
+
+color: #000000;
+
+
+}
+.info{
+position: absolute;
+width: 491px;
+height: 44px;
+left: 394px;
+top: 265px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+
+}
+.zvezdi{
+position: absolute;
+width: 182px;
+height: 13px;
+left: 394px;
+top: 345px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 17px;
+
+color: #000000;
+
+
+}
+.cena{
+position: absolute;
+width: 231px;
+height: 36px;
+left: 394px;
+top: 365px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 40px;
+
+color: #000000;
+
+
+}
+.knopka{
+position: absolute;
+width: 307px;
+height: 67px;
+left: 638px;
+top: 384px;
+
+background: #ABABAB;
+border-radius: 25px;
+
+}
+.knopka2{
+position: absolute;
+width: 210px;
+height: 28px;
+left: 710px;
+top: 384px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+
+
+}
